@@ -5,7 +5,7 @@
 
 ## Requirements
 
-* Python 3.7
+* Python 3.6
 * pip
 
 ### Install Packages

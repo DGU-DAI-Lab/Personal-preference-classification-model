@@ -1,0 +1,3 @@
+[submodule "Preprocessing-model-through-non-uniform-filtering-for-CNN"]
+	path = preprocess
+	url = https://github.com/DGU-DAI-Lab/Preprocessing-model-through-non-uniform-filtering-for-CNN
